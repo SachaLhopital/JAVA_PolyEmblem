@@ -1,7 +1,6 @@
 ## TODO
 
 (Liste non exhaustive de ce qu'il reste à faire)
-
 Quand une tâche est faite, merci d'écrire DONE devant et de ne pas l'effacer.
 
 # Background 

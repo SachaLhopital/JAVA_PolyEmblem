@@ -1,13 +1,11 @@
 # PolyEmblem
 
-RPG étudiant
+[FR] PolyEmblem est un Projet étudiant de RPG en JAVA (sans interface graphique spécifique dans un premier temps). 
 
 ## Installation sur Netbeans
 
-* Sous Netbeans, ouvrir comme un projet le dossier PolyEmblem.
+* Sous Netbeans, ouvrir comme un projet le dossier JAVA_PolyEmblem.
 * Pour lancer le jeu, executer le fichier "PolyEmblem" présent dans le package "Main" de l'application. 
-
-*Pour afficher l'UML du projet, ouvrir le projet UMLDiagram avec le plugin easyUML
 
 ## BackGround and Story line 
 
@@ -24,3 +22,9 @@ Quel camps choisirez-vous :
 * Mathémathicien Appliqués à la Modélisation (aka MAM, aka le nom de faction le plus long de l'histoire de l'univers de Polytech) : Le Mathématicien est un calculateur. Perfide, sournois et beaucoup trop intelligent par rapport à la moyenne nationale, il peut vous noyer dans un flot de statistiques ou vous étouffer à coup d'intégrale dans la tronche (et ce n'est jamais très agréable). Et si par hasard vous êtes très imbu de vous même, cette faction vous conviendra parfaitement. (classe : sorcier).
 
 * Mécanicien (aka MECA) : Prenez un trébuchet, un patator dernière génération ou encore un pistolet à eau NERF (par ce que voilà) et vous aurez sans aucun doute un mécanicien dans les parages. Disposant d'une très bonne puissance de feu (quelque soit son arme), il est capable de tirer avec une précision de 10^infini (ce qui est vraiment beaucoup, demandez à un MaM). (classe : archer).
+
+# Contexte 
+
+Réalisé par Yoan LAFAYE DE MICHEAUX (LafayeYoan), Sacha LHOPITAL (SachaLhopital) et Loick PACCAUD 
+2015 - 2016
+Polytech Lyon
